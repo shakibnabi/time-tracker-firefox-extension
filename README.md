@@ -1,4 +1,4 @@
-# ⏱️ Time Tracker Firefox Browser Extension
+# ⏱️ Time Tracker Firefox Extension
 
 A simple and elegant time tracking extension for Firefox, featuring:
 
